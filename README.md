@@ -1,3 +1,9 @@
+---
+layout: page
+title: "test"
+permalink: /
+---
+
 ## Fragaria Ecology and Evolution Resources
 
 You can use the [editor on GitHub](https://github.com/fragaria-eco-evo/fragaria-eco-evo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
